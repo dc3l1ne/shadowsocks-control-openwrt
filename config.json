@@ -1,0 +1,29 @@
+{
+"server1": 
+	{
+		"server": "1.1.1.1",
+		"server_port": "3333",
+		"local_port": "5555",
+		"password": "p@ssw0rd",
+		"timeout": "300",
+		"method": "aes-256-cfb"
+	},
+"server2": 
+	{
+		"server": "2.2.2.2",
+		"server_port": "3333",
+		"local_port": "5555",
+		"password": "p@ssw0rd",
+		"timeout": "300",
+		"method": "aes-256-cfb"
+	},
+"server3": 
+	{
+		"server": "3.3.3.3",
+		"server_port": "3333",
+		"local_port": "5555",
+		"password": "p@ssw0rd",
+		"timeout": "300",
+		"method": "aes-256-cfb"
+	},
+}
